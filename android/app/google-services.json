@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823594523079",
+    "project_id": "yatika71311",
+    "storage_bucket": "yatika71311.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823594523079:android:1935d7ee9f63fda98fe1e2",
+        "android_client_info": {
+          "package_name": "com.example.dd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGeBb0KDC1gR-llv5J0pc72Qt--tm4RMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
